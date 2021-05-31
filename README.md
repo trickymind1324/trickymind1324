@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi I am Sunny
+A full stack web developer and programming enthusiast.
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+
+https://www.linkedin.com/in/sunny1824/
+
 
 <!--
 **trickymind1324/trickymind1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
