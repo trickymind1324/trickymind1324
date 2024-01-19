@@ -8,10 +8,10 @@
 ### <img src="https://media.giphy.com/media/3HE6QKdb3jLDLZJME1/giphy.gif" width="50"> About me...
 
 ```javascript
-const sunny = {
+const Sunny = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Flutter],
-  tools: [React, Redux, Node, Tailwind CSS, Styled-Components, AWS, Docker],
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, Flutter, Rust],
+  tools: [React, Next, Redux, Node, Tauri, Electron, Tailwind CSS, Styled-Components, AWS, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
