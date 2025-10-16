@@ -1,5 +1,7 @@
 <h2> Hi, I'm Sunny! <img src="https://media.giphy.com/media/c1vzm6D1NPzm8/giphy.gif" width="50"></h2>
-<p>A full stack web developer and programming enthusiast.</p>
+<p>I’m a software developer with over 3 years of professional experience in building scalable, high-performance applications. My expertise spans across full stack development, with a strong command of backend and frontend technologies. I’m proficient in Golang, Python, C++, and JavaScript, and I enjoy designing clean, efficient code that solves real-world problems.
+
+Whether it’s architecting backend systems, building intuitive user interfaces, or diving into complex algorithms, I bring a hands-on, detail-oriented approach to every challenge.</p>
 
 
 [![Linkedin: Sunny](https://img.shields.io/badge/-Sunny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunny1824/)](https://www.linkedin.com/in/sunny1824/)
@@ -10,8 +12,8 @@
 ```javascript
 const Sunny = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Flutter, Rust],
-  tools: [React, Next, Redux, Node, Tauri, Electron, Tailwind CSS, Styled-Components, AWS, Docker],
+  code: [Full-Stack, Go, Typescript, C++, Python],
+  tools: [FastAPI, Elastic, Redis, Next.JS, Node.JS, Tauri, Tailwind CSS, AWS, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
