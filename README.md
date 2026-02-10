@@ -41,13 +41,9 @@ domains:
 
 philosophy: "Write code that your future self will thank you for."
 ```
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickymind1324&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="320"/>
-
 - 🔭 &nbsp;Building **cybersecurity products** at Nivetti Systems
 - 🏗️ &nbsp;Former **founding engineer** at EMO.energy
 - ☁️ &nbsp;**AWS Certified** Cloud Architect
-- 🌐 &nbsp;**CCNA Certified** — networking runs in my veins
 - 🏏 &nbsp;Cricketer when I'm not coding
 - 💬 &nbsp;Ask me about **Go, Python, TypeScript, Distributed Systems**
 
