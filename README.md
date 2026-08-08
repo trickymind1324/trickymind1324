@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=3%2B+years+building+low-latency+backend+systems;Agentic+AI+pipelines+with+LangGraph%2C+MCP+%26+LLMs;From+cybersecurity+NDR+to+zero-to-one+products" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL BADGES -->
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny1824/)
@@ -18,10 +17,9 @@
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT SECTION -->
-## &nbsp;🧬 About Me
+## 🧬 About Me
 
 ```yaml
 name: Sunny
@@ -35,115 +33,123 @@ currently:
   optimizing: Microservices for real-time NDR packet-inspection workloads
   community: Active member of GDG Bangalore
 
-domains:
-  - Agentic AI & LLM Pipelines
-  - Cybersecurity & Network Security
-  - Distributed Systems & Low-Latency Backends
-
 philosophy: "The model proposes, the code disposes."
 ```
+
 - 🤖 &nbsp;Translating **research-stage AI primitives** (agent loops, multi-agent pipelines, MCP tool orchestration) into shipped product features
 - 🛡️ &nbsp;Optimizing backend microservices in an **NDR cybersecurity product** — throughput and tail latency under real-time load
 - 🏗️ &nbsp;Former **founding engineer** at EMO.energy — took the first product from zero to one
-- ☁️ &nbsp;**AWS Certified** Cloud Architect
-- 🏏 &nbsp;Cricketer when I'm not coding
+- ☁️ &nbsp;**AWS Certified** Cloud Architect &nbsp;•&nbsp; 🏏 Cricketer when I'm not coding
 - 💬 &nbsp;Ask me about **Python, Go, LangGraph, MCP, Distributed Systems**
 
-<br clear="both"/>
+<br/>
 
----
+## 🚀 Featured Projects
 
-<!-- FEATURED PROJECTS -->
-## &nbsp;🚀 Featured Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 [Multi-Modal Evidence Reviewer](https://github.com/trickymind1324/multi-modal-evidence-reviewer)
-
-AI damage-claim verification. A **two-stage pipeline** separates visual perception (VLM emits objective observations, no verdict) from judgment (LLM compares claimed vs observed) — behind pydantic schema enforcement, with a **deterministic merge layer holding final authority** and a heuristic fallback that guarantees valid output. Runs entirely on local Ollama at **$0 API cost**.
-
-`Python` `Ollama` `Qwen2.5-VL` `Pydantic`
-
+<td align="center" width="50%">
+<a href="https://github.com/trickymind1324/multi-modal-evidence-reviewer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trickymind1324&repo=multi-modal-evidence-reviewer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="multi-modal-evidence-reviewer"/>
+</a>
+<br/><sub><i>Two-stage VLM→LLM damage-claim verification with a deterministic merge layer — $0 API cost on local Ollama</i></sub>
 </td>
-<td width="50%" valign="top">
-
-### 📬 [Message Notification Router](https://github.com/trickymind1324/message-notification-router)
-
-Notification triage for a WhatsApp-style multimodal stream (text, images, voice notes) → **notify / digest / mute**. A deterministic **12-trigger risk layer** with prompt-injection defense wraps schema-enforced LLM perception + reasoning, and committed caches reproduce the output **bit-identically with zero API calls**.
-
-`Python` `Claude API` `faster-whisper` `Structured Outputs`
-
+<td align="center" width="50%">
+<a href="https://github.com/trickymind1324/message-notification-router">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trickymind1324&repo=message-notification-router&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="message-notification-router"/>
+</a>
+<br/><sub><i>Multimodal notify/digest/mute triage — 12-trigger risk layer, prompt-injection defense, bit-identical keyless replay</i></sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ✉️ [AI Mail Copilot](https://github.com/trickymind1324/ai-mail-copilot)
-
-An AI co-pilot for email that **drives the interface itself** — it fills the compose form, drafts and refines replies, and acts on the mailbox rather than just chatting about it.
-
-`TypeScript` `Next.js` `LLM Tool Use`
-
+<td align="center" width="50%">
+<a href="https://github.com/trickymind1324/codesphere">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trickymind1324&repo=codesphere&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="codesphere"/>
+</a>
+<br/><sub><i>Cloud IDE platform with real-world debugging scenarios, an AI Socratic tutor, and glass-box hiring analytics</i></sub>
 </td>
-<td width="50%" valign="top">
-
-### 🕵️ [Cipher](https://github.com/trickymind1324/cipher)
-
-Intelligent **conversational AI & crime analytics** platform — natural-language querying over crime data with analytics dashboards.
-
-`JavaScript` `Conversational AI` `Analytics`
-
+<td align="center" width="50%">
+<a href="https://github.com/trickymind1324/ai-mail-copilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trickymind1324&repo=ai-mail-copilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="ai-mail-copilot"/>
+</a>
+<br/><sub><i>An AI co-pilot that drives the email UI itself — filling forms, drafting replies, acting on the mailbox</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/trickymind1324/cipher">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trickymind1324&repo=cipher&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="cipher"/>
+</a>
+<br/><sub><i>Conversational AI & crime analytics — natural-language querying over crime data with dashboards</i></sub>
+</td>
+<td align="center" width="50%">
+<br/>
+<a href="https://github.com/trickymind1324?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<!-- TECH STACK -->
-## &nbsp;🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+**Languages**
 
-### AI / Agentic Systems
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
-[![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend & Frontend
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+**AI / Agentic Systems**
 
-### Data & Messaging
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### DevOps & Cloud
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)](https://www.elastic.co/logstash/)
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 
 </div>
 
----
+## 📊 GitHub Stats
 
-<!-- EXPERIENCE HIGHLIGHTS -->
-## &nbsp;💼 Where I've Built Things
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=trickymind1324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickymind1324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="165" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=trickymind1324&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
+
+</div>
+
+## 💼 Where I've Built Things
 
 <table align="center">
 <tr>
@@ -166,10 +172,7 @@ Designing **agentic AI systems** with LangGraph, LLMs & MCP — turning research
 </tr>
 </table>
 
----
-
-<!-- CERTIFICATIONS -->
-## &nbsp;🏅 Certifications
+## 🏅 Certifications
 
 <div align="center">
 
@@ -180,10 +183,7 @@ Designing **agentic AI systems** with LangGraph, LLMs & MCP — turning research
 
 </div>
 
----
-
-<!-- WHAT I BRING -->
-## &nbsp;⚙️ What I Bring to the Table
+## ⚙️ What I Bring to the Table
 
 <div align="center">
 
@@ -196,16 +196,12 @@ Designing **agentic AI systems** with LangGraph, LLMs & MCP — turning research
 
 </div>
 
----
+<br/>
 
-<!-- CONNECT -->
 <div align="center">
 
 ### 💬 Let's Connect
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-
-*I love connecting with fellow developers and tech enthusiasts.*
 *Whether you have a project idea, want to collaborate, or just want to say hi — my inbox is always open!*
 
 <br/>
