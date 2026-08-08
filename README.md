@@ -20,9 +20,9 @@
 ```console
 sunny@bengaluru:~$ whoami
 
-Software Engineer @ Nivetti Systems — 3+ years shipping production systems.
+Software Engineer — 3+ years shipping production systems.
 Currently building agentic AI with LangGraph, LLMs & MCP, and tuning
-NDR cybersecurity microservices for throughput and tail latency.
+real-time microservices for throughput and tail latency.
 Formerly founding engineer @ EMO.energy (zero → one).
 
 sunny@bengaluru:~$ cat philosophy.txt
