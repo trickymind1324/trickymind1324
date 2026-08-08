@@ -10,10 +10,10 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sunny--18.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://sunny-18.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny1824/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trickymind1324)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnyas1824@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=trickymind1324&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/trickymind1324)
 
 </div>
 
