@@ -118,7 +118,7 @@ Intelligent conversational AI & crime analytics platform — natural-language qu
 
 **Software Engineer — Applications**
 
-Agentic AI systems with **LangGraph, LLMs & MCP** shipped as product features · optimized **NDR** microservices for throughput & tail latency under real-time packet inspection · resilient APIs and pipelines with Python, Go, FastAPI, **Kafka/RabbitMQ** · built the switch-management GUI and the **NECS** compliance-audit tool end-to-end
+Agentic AI systems with **LangGraph, LLMs & MCP** shipped as product features · optimized real-time microservices for **throughput & tail latency** under heavy network traffic · resilient APIs and pipelines with Python, Go, FastAPI, **Kafka/RabbitMQ** · built the switch-management GUI and the **NECS** compliance-audit tool end-to-end
 
 </td>
 </tr>
