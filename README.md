@@ -106,11 +106,53 @@ Intelligent conversational AI & crime analytics platform — natural-language qu
 
 ## 💼 Experience
 
-|   | Role | Highlights |
-|---|------|------------|
-| **Nivetti Systems** <br/> `Dec 2023 — now` | Software Engineer — Applications | Agentic AI systems with **LangGraph, LLMs & MCP** shipped as product features · optimized **NDR** microservices for throughput & tail latency under real-time packet inspection · resilient APIs and pipelines with Python, Go, FastAPI, **Kafka/RabbitMQ** · built the switch-management GUI and the **NECS** compliance-audit tool end-to-end |
-| **EMO.energy** <br/> `Feb — Nov 2023` | Software Engineer — Full Stack | **Founding engineer** — owned architecture and delivery of the first product, **SENS**, from zero to one · distributed backend on FastAPI, Redis, MongoDB, AWS · cut feature delivery time **~30%** |
-| **Cognizant** <br/> `Mar — Aug 2022` | Software Engineer — Intern | Modular front-end features + automated test coverage that cut production issues **~20%** |
+<table>
+<tr>
+<td valign="top" width="220">
+
+**Nivetti&nbsp;Systems**
+<br/><code>Dec&nbsp;2023&nbsp;—&nbsp;now</code>
+
+</td>
+<td>
+
+**Software Engineer — Applications**
+
+Agentic AI systems with **LangGraph, LLMs & MCP** shipped as product features · optimized **NDR** microservices for throughput & tail latency under real-time packet inspection · resilient APIs and pipelines with Python, Go, FastAPI, **Kafka/RabbitMQ** · built the switch-management GUI and the **NECS** compliance-audit tool end-to-end
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="220">
+
+**EMO.energy**
+<br/><code>Feb&nbsp;—&nbsp;Nov&nbsp;2023</code>
+
+</td>
+<td>
+
+**Software Engineer — Full Stack**
+
+**Founding engineer** — owned architecture and delivery of the first product, **SENS**, from zero to one · distributed backend on FastAPI, Redis, MongoDB, AWS · cut feature delivery time **~30%**
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="220">
+
+**Cognizant**
+<br/><code>Mar&nbsp;—&nbsp;Aug&nbsp;2022</code>
+
+</td>
+<td>
+
+**Software Engineer — Intern**
+
+Modular front-end features + automated test coverage that cut production issues **~20%**
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Stack
 
