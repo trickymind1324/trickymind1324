@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sunny&fontSize=80&fontColor=58a6ff&fontAlignY=32&desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Agentic%20AI&descSize=20&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" alt="Sunny — Backend · Distributed Systems · Agentic AI"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=3%2B+years+shipping+low-latency+backend+systems;Agentic+AI+with+LangGraph%2C+MCP+%26+LLMs;The+model+proposes%2C+the+code+disposes." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=3%2B+years+shipping+low-latency+backend+systems;Building+agentic%2C+AI-powered+systems" alt="Typing intro" />
 </a>
 
 <br/><br/>
