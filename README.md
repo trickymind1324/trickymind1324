@@ -27,9 +27,7 @@ Formerly founding engineer @ EMO.energy (zero → one).
 
 sunny@bengaluru:~$ cat philosophy.txt
 
-"The model proposes, the code disposes."
-Deterministic guardrails around probabilistic models. Schema enforcement
-at every LLM boundary. Honest evals over impressive demos.
+Happy paths are easy. Careers are built on the catch blocks.
 ```
 
 <br/>
