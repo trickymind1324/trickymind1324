@@ -38,6 +38,33 @@ Happy paths are easy. Careers are built on the catch blocks.
 <tr>
 <td>
 
+### [codesphere](https://github.com/trickymind1324/codesphere)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco_IDE-0078D4?style=flat-square)
+![AI Tutor](https://img.shields.io/badge/AI_Socratic_Tutor-a855f7?style=flat-square)
+
+Where code meets reality: a cloud IDE with real-world debugging scenarios (memory leaks, race conditions, slow queries), an AI Socratic tutor that hints without spoiling, code playback, and glass-box analytics showing companies **how** candidates think — not just whether tests pass.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [personal-finance-agent](https://github.com/trickymind1324/personal-finance-agent)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Multimodal_Evidence-a855f7?style=flat-square)
+![Deterministic](https://img.shields.io/badge/Deterministic_Core-1f6feb?style=flat-square)
+
+"Can I afford this?" answered properly: **pay in full / split / installments / wait**, decided by a 90-day balance forecast over real transaction history. The model resolves evidence only — receipt amounts, message amendments — behind a bounded tool loop and strict schemas, while **deterministic code owns every money decision**. Committed caches reproduce the output **bit-identically with zero API calls**.
+
+</td>
+</tr>
+<tr>
+<td>
+
 ### [multi-modal-evidence-reviewer](https://github.com/trickymind1324/multi-modal-evidence-reviewer)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,19 +93,6 @@ Notification triage for a WhatsApp-style multimodal stream → **notify / digest
 <tr>
 <td>
 
-### [codesphere](https://github.com/trickymind1324/codesphere)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Monaco](https://img.shields.io/badge/Monaco_IDE-0078D4?style=flat-square)
-![AI Tutor](https://img.shields.io/badge/AI_Socratic_Tutor-a855f7?style=flat-square)
-
-Where code meets reality: a cloud IDE with real-world debugging scenarios (memory leaks, race conditions, slow queries), an AI Socratic tutor that hints without spoiling, code playback, and glass-box analytics showing companies **how** candidates think — not just whether tests pass.
-
-</td>
-</tr>
-<tr>
-<td>
-
 ### [ai-mail-copilot](https://github.com/trickymind1324/ai-mail-copilot)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -86,19 +100,6 @@ Where code meets reality: a cloud IDE with real-world debugging scenarios (memor
 ![Tool Use](https://img.shields.io/badge/LLM_Tool_Use-1f6feb?style=flat-square)
 
 An AI co-pilot that drives the email interface itself — filling the compose form, drafting and refining replies, acting on the mailbox rather than just chatting about it.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### [cipher](https://github.com/trickymind1324/cipher)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Conversational AI](https://img.shields.io/badge/Conversational_AI-10b981?style=flat-square)
-![Analytics](https://img.shields.io/badge/Crime_Analytics-f59e0b?style=flat-square)
-
-Intelligent conversational AI & crime analytics platform — natural-language querying over crime data, paired with analytics dashboards.
 
 </td>
 </tr>
