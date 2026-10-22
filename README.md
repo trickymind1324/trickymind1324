@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sunny&fontSize=80&fontColor=58a6ff&fontAlignY=32&desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Agentic%20AI&descSize=20&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" alt="Sunny — Backend · Distributed Systems · Agentic AI"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=3%2B+years+shipping+low-latency+backend+systems;Building+agentic%2C+AI-powered+systems;Boring+systems+that+survive+interesting+failures" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=4%2B+years+shipping+low-latency+backend+systems;Building+agentic%2C+AI-powered+systems;Boring+systems+that+survive+interesting+failures" alt="Typing intro" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,7 @@
 ```console
 sunny@bengaluru:~$ whoami
 
-Software Engineer — 3+ years shipping production systems.
+Software Engineer — 4+ years shipping production systems.
 Currently building agentic AI with LangGraph, LLMs & MCP, and tuning
 real-time microservices for throughput and tail latency.
 Formerly founding engineer @ EMO.energy (zero → one).
@@ -35,6 +35,20 @@ Happy paths are easy. Careers are built on the catch blocks.
 ## 🚀 Featured Work
 
 <table>
+<tr>
+<td>
+
+### [axon-infer](https://github.com/trickymind1324/axon-infer)
+
+![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![GGUF](https://img.shields.io/badge/GGUF_%C2%B7_LLaMA-6236FF?style=flat-square)
+![SIMD](https://img.shields.io/badge/NEON_%2F_AVX2_Kernels-1f6feb?style=flat-square)
+![Quantization](https://img.shields.io/badge/Q4__0_%2F_Q8__0-10b981?style=flat-square)
+
+LLM inference engine written from scratch in C++20 — **no ggml, BLAS or OpenMP**. Memory-maps GGUF models from the LLaMA family and runs them on CPU with quantized integer-dot matmuls, a KV cache, hand-written SIMD kernels, a custom thread pool and an OpenAI-compatible server. Every kernel is checked **bit-identical** against a scalar reference, and every optimization is benchmarked against llama.cpp.
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -59,20 +73,6 @@ Where code meets reality: a cloud IDE with real-world debugging scenarios (memor
 ![Deterministic](https://img.shields.io/badge/Deterministic_Core-1f6feb?style=flat-square)
 
 "Can I afford this?" answered properly: **pay in full / split / installments / wait**, decided by a 90-day balance forecast over real transaction history. The model resolves evidence only — receipt amounts, message amendments — behind a bounded tool loop and strict schemas, while **deterministic code owns every money decision**. Committed caches reproduce the output **bit-identically with zero API calls**.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### [multi-modal-evidence-reviewer](https://github.com/trickymind1324/multi-modal-evidence-reviewer)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Qwen-VL](https://img.shields.io/badge/Qwen2.5--VL-6236FF?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-AI damage-claim verification. A two-stage pipeline splits **perception** (VLM reports what it sees — no verdict) from **judgment** (LLM compares claimed vs observed), behind pydantic schema enforcement. A deterministic merge layer holds final authority; a heuristic fallback guarantees valid output. Runs entirely on local models at **$0 API cost**.
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ An AI co-pilot that drives the email interface itself — filling the compose fo
 <td valign="top" width="220">
 
 **Nivetti&nbsp;Systems**
-<br/><code>Dec&nbsp;2023&nbsp;—&nbsp;now</code>
+<br/><code>Dec&nbsp;2023&nbsp;—&nbsp;Oct&nbsp;2026</code>
 
 </td>
 <td>
