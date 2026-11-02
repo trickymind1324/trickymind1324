@@ -21,8 +21,8 @@
 sunny@bengaluru:~$ whoami
 
 Software Engineer — 4+ years shipping production systems.
-Currently building agentic AI with LangGraph, LLMs & MCP, and tuning
-real-time microservices for throughput and tail latency.
+Now: SDE 2 @ HackerRank, Platforms team — building agents and MCP.
+Before: agentic AI and real-time microservices @ Nivetti Systems.
 Formerly founding engineer @ EMO.energy (zero → one).
 
 sunny@bengaluru:~$ cat philosophy.txt
@@ -108,6 +108,21 @@ An AI co-pilot that drives the email interface itself — filling the compose fo
 ## 💼 Experience
 
 <table>
+<tr>
+<td valign="top" width="220">
+
+**HackerRank**
+<br/><code>Nov&nbsp;2026&nbsp;—&nbsp;now</code>
+
+</td>
+<td>
+
+**Software Development Engineer 2 — Platforms**
+
+Platforms team, working on **AI agents** and **MCP** integrations across the HackerRank platform
+
+</td>
+</tr>
 <tr>
 <td valign="top" width="220">
 
