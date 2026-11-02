@@ -112,7 +112,7 @@ An AI co-pilot that drives the email interface itself — filling the compose fo
 <td valign="top" width="220">
 
 **HackerRank**
-<br/><code>Nov&nbsp;2026&nbsp;—&nbsp;now</code>
+<br/><code>Nov&nbsp;2026&nbsp;—&nbsp;present</code>
 
 </td>
 <td>
