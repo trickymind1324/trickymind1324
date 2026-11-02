@@ -117,7 +117,7 @@ An AI co-pilot that drives the email interface itself — filling the compose fo
 </td>
 <td>
 
-**Software Development Engineer 2 — Platforms**
+**Software Development Engineer 2**
 
 Platforms team, working on **AI agents** and **MCP** integrations across the HackerRank platform
 
