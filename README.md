@@ -119,7 +119,7 @@ An AI co-pilot that drives the email interface itself — filling the compose fo
 
 **Software Development Engineer 2**
 
-Platforms team, working on **AI agents** and **MCP** integrations across the HackerRank platform
+**Platforms** team — building **AI agents** and **MCP** integrations across the HackerRank platform · agentic workflows that connect LLMs to the platform's tools and data
 
 </td>
 </tr>
